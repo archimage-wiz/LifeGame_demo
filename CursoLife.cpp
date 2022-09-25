@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <fstream>
 #include <windows.h>
-//#include <unistd.h>  
+//#include <unistd.h> // for linux
 
 const char * MATRIX_FILE = "matrix.txt";
 const int SLEEPTIME = 1000;
